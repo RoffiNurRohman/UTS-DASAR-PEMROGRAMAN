@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-   cout<<"Nama : Dani Nugraha"<< endl;
-   cout<<"NIM : A2.1900035"<< endl<< endl;
+   cout<<"Nama : Roffi Nur Rohman"<< endl;
+   cout<<"NIM : A2.1900159"<< endl<< endl;
 
    int A [2] [4]={1,2,3,4,5,6,7,8};
 
